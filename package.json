@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lgofk/task-manager-test.git"
+  },
+  "author": "Dmitry Verkhovetsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lgofk/task-manager-test/issues"
+  },
+  "homepage": "https://github.com/Lgofk/task-manager-test#readme"
+}
