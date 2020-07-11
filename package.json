@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lgofk/task-manager-test/issues"
   },
-  "homepage": "https://github.com/Lgofk/task-manager-test#readme"
+  "homepage": "https://github.com/Lgofk/task-manager-test#readme",
+  "dependencies": {
+    "shortid": "^2.2.15"
+  }
 }
